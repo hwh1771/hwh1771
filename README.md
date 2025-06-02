@@ -13,7 +13,15 @@ I am a data science and economics undergraduate with experience mostly in Python
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+## Projects
+### [Beyond traditional GARCH models: integrating NLP-derived sentiment scores for enhanced volatility modeling](https://github.com/hwh1771/sentiment-analysis-volatility-forecasting)
+- Our university final year project extending the base GARCH model by incorporating additional exogenous regressors into the volatility equation.
+- Our project paper can be found [here](https://hdl.handle.net/10356/184324).
+
+### [HE4045 Quantitative Economics with Data Science Project](https://github.com/hwh1771/he4045-project)
+- Project for NTU's HE4045 (Quantitative Economics with Data Science) module. 
+- We conduct data analysis on the causes of income inequality in China using ARIMAX, before conducting simulations using suitable macroeconomic models to forecast future inequality under different scenarios.
+
 ## Education
 
-- B.Sc. in Economics and Data Science  
-- Nanyang Technological University (NTU), Singapore
+- B.Sc. in Economics and Data Science | Nanyang Technological University (NTU), Singapore
